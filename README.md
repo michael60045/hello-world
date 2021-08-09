@@ -1,4 +1,4 @@
 # hello-world
 hello-world pg
 
-Hi this is my first commit to thiw hw repository
+Hi this is my first commit to this new repository
